@@ -1,0 +1,63 @@
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.exe
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.deps.json
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.runtimeconfig.json
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form1.resources
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.GenerateResource.cache
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.GeneratedMSBuildEditorConfig.editorconfig
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfoInputs.cache
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfo.cs
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.CoreCompileInputs.cache
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\refint\PROJE ÖDEVİ.dll
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.genruntimeconfig.cache
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\ref\PROJE ÖDEVİ.dll
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Properties.Resources.resources
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form2.resources
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form3.resources
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form4.resources
+D:\KODLAMALARIM\PROJE ÖDEVİ\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form5.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.exe
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.deps.json
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.runtimeconfig.json
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form1.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form2.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form3.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form4.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form5.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Properties.Resources.resources
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.GenerateResource.cache
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfoInputs.cache
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfo.cs
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\refint\PROJE ÖDEVİ.dll
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.genruntimeconfig.cache
+C:\Users\asmte\OneDrive\Masaüstü\PROJE ÖDEVİ\obj\Debug\net8.0-windows\ref\PROJE ÖDEVİ.dll
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form1.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form2.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form3.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form4.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Form5.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.GenerateResource.cache
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\refint\PROJE ÖDEVİ.dll
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.exe
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.deps.json
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.runtimeconfig.json
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.dll
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\bin\Debug\net8.0-windows\PROJE ÖDEVİ.pdb
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE_ÖDEVİ.Properties.Resources.resources
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfoInputs.cache
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.AssemblyInfo.cs
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\PROJE ÖDEVİ.genruntimeconfig.cache
+C:\Users\esgul\Downloads\Compressed\PROJE ÖDEVİ-20250106T171214Z-001\PROJE ÖDEVİ\obj\Debug\net8.0-windows\ref\PROJE ÖDEVİ.dll
